@@ -1,0 +1,19 @@
+.vertical-divider {
+    height: 100%;
+}
+
+.complaint-content {
+    font-style: italic;
+}
+
+.ant-descriptions .ant-descriptions-item-container .ant-descriptions-item-label {
+    font-weight: bold;
+}
+
+.complaint .ant-divider-horizontal {
+    margin: 5px 0;
+}
+
+.section-title span {
+    font-size: 20px;
+}
